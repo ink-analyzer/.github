@@ -27,7 +27,7 @@ Planned extensions/plugins/integrations:
 - IntelliJ Plugin (Q2/2023)
 
 
-**NOTE:** ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
+**NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
 
 💬 Twitter: [@davidsemakula](https://twitter.com/davidsemakula).
 
