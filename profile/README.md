@@ -11,7 +11,7 @@ ink! analyzer aims to improve [ink!](https://use.ink/) language support in [inte
 A modular domain-specific semantic analysis library for ink!.
 It's responsible for parsing the smart contract code, analyzing it based on ink!'s semantic rules for smart contracts and returning semantic information for other components to consume.
 
-### 2. 🗣 Language Server (coming soon - May/2023)
+### 2. 🗣 Language Server (coming soon - June/2023)
 
 A [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) implementation built on top of the semantic analyzer.
 It acts as a backend that provides language support features to IDEs, code editors and other development tools.
