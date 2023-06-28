@@ -6,25 +6,25 @@ ink! analyzer aims to improve [ink!](https://use.ink/) language support in [inte
 
 ## Components
 
-### 1. 🔬 [Semantic Analyzer](https://github.com/ink-analyzer/ink-analyzer)
+### 1. 🔬 [Semantic Analyzer](https://github.com/ink-analyzer/ink-analyzer/tree/master/crates/analyzer)
 
 A modular domain-specific semantic analysis library for ink!.
 It's responsible for parsing the smart contract code, analyzing it based on ink!'s semantic rules for smart contracts and returning semantic information for other components to consume.
 
-### 2. 🗣 Language Server (coming soon - June/2023)
+### 2. 🗣 [Language Server](https://github.com/ink-analyzer/ink-analyzer/tree/master/crates/lsp-server)
 
 A [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) implementation built on top of the semantic analyzer.
 It acts as a backend that provides language support features to IDEs, code editors and other development tools.
 It can be reused by multiple IDEs, code editors and other development tools that support LSP servers including [Visual Studio Code, Visual Studio, Vim / Neovim, Emacs, Atom, Sublime Text, Acme, Lapce, Eclipse and many more](https://microsoft.github.io/language-server-protocol/implementors/tools/).
 
-### 3. 👩‍💻 Extensions/plugins/integrations for IDEs and code editors (coming soon - Q2/2023)
+### 3. 👩‍💻 Extensions/plugins/integrations for IDEs and code editors (coming soon - July/2023)
 
 Extensions/plugins/integrations add ink! language support to IDEs, code editors and other development tools. 
 They communicate with the language server running as a separate process using the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) via [JSON-RPC](https://www.jsonrpc.org/).
 
 Planned extensions/plugins/integrations:
-- Visual Studio Code Extension (Q2/2023)
-- IntelliJ Plugin (Q2/2023)
+- Visual Studio Code Extension (July/2023)
+- IntelliJ Plugin (Q3/2023)
 
 
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
