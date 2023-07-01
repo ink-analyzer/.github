@@ -29,6 +29,4 @@ Planned extensions/plugins/integrations:
 
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
 
-💬 Twitter: [@davidsemakula](https://twitter.com/davidsemakula).
-
 🌱 Funded by: the [Web3 Foundation](https://web3.foundation/).
