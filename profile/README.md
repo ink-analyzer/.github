@@ -2,7 +2,7 @@
 
 A collection of modular and reusable libraries and tools for semantic analysis of [ink!](https://use.ink/) smart contract code.
 
-ink! analyzer aims to improve [ink!](https://use.ink/) language support in [integrated development environments (IDEs)](https://en.wikipedia.org/wiki/Integrated_development_environment), [source code editors](https://en.wikipedia.org/wiki/Source-code_editor) and other development tools by providing modular and reusable building blocks for implementing features like diagnostic errors, code completion suggestions, code/intent actions and hover content for the [ink! programming language](https://use.ink/) which is used for writing smart contracts for blockchains built on [Substrate](https://substrate.io/).
+ink! analyzer aims to improve [ink!](https://use.ink/) language support in [integrated development environments (IDEs)](https://en.wikipedia.org/wiki/Integrated_development_environment), [source code editors](https://en.wikipedia.org/wiki/Source-code_editor) and other development tools by providing modular and reusable building blocks for implementing features like diagnostic errors, code completion suggestions, code/intent actions and hover content for the [ink! programming language](https://use.ink/) which is used for writing smart contracts for blockchains built with [Substrate](https://substrate.io/).
 
 ## Components
 
@@ -23,7 +23,7 @@ Extensions/plugins/integrations add ink! language support to IDEs, code editors 
 They communicate with the language server running as a separate process using the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) via [JSON-RPC](https://www.jsonrpc.org/).
 
 Planned extensions/plugins/integrations:
-- Visual Studio Code Extension (July/2023)
+- [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode)
 - IntelliJ Plugin (Q3/2023)
 
 
