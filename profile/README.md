@@ -17,14 +17,14 @@ A [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-p
 It acts as a backend that provides language support features to IDEs, code editors and other development tools.
 It can be reused by multiple IDEs, code editors and other development tools that support LSP servers including [Visual Studio Code, Visual Studio, Vim / Neovim, Emacs, Atom, Sublime Text, Acme, Lapce, Eclipse and many more](https://microsoft.github.io/language-server-protocol/implementors/tools/).
 
-### 3. 👩‍💻 Extensions/plugins/integrations for IDEs and code editors (coming soon - July/2023)
+### 3. 👩‍💻 Extensions/plugins/integrations for IDEs, code editors and other development tools
 
 Extensions/plugins/integrations add ink! language support to IDEs, code editors and other development tools. 
 They communicate with the language server running as a separate process using the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) via [JSON-RPC](https://www.jsonrpc.org/).
 
 Planned extensions/plugins/integrations:
 - [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode)
-- IntelliJ Plugin (Q3/2023)
+- IntelliJ Plugin (coming soon - Q3/2023)
 
 
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
