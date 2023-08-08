@@ -28,8 +28,6 @@ Planned extensions/plugins/integrations:
 - [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode)
 - IntelliJ Plugin (coming soon - Q3/2023)
 
-**NOTE:** 🚧 A more detailed roadmap will be shared in the coming weeks.
-
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
 
 🌱 Funded by: the [Web3 Foundation](https://web3.foundation/).
