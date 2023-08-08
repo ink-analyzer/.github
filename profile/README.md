@@ -4,6 +4,8 @@ A collection of modular and reusable libraries and tools for semantic analysis o
 
 ink! analyzer aims to improve [ink!](https://use.ink/) language support in [integrated development environments (IDEs)](https://en.wikipedia.org/wiki/Integrated_development_environment), [source code editors](https://en.wikipedia.org/wiki/Source-code_editor) and other development tools by providing modular and reusable building blocks for implementing features like diagnostic errors, code completion suggestions, code/intent actions and hover content for the [ink! programming language](https://use.ink/) which is used for writing smart contracts for blockchains built with [Substrate](https://substrate.io/).
 
+- [Introductory blog post](https://analyze.ink/blog/introducing-ink-analyzer).
+
 ## Components
 
 ### 1. 🔬 [Semantic Analyzer](https://github.com/ink-analyzer/ink-analyzer/tree/master/crates/analyzer)
@@ -26,6 +28,7 @@ Planned extensions/plugins/integrations:
 - [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode)
 - IntelliJ Plugin (coming soon - Q3/2023)
 
+**NOTE:** 🚧 A more detailed roadmap will be shared in the coming weeks.
 
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
 
