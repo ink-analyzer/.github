@@ -26,7 +26,7 @@ They communicate with the language server running as a separate process using th
 
 Planned extensions/plugins/integrations:
 - [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode)
-- IntelliJ Plugin (coming soon - Q3/2023)
+- IntelliJ Plugin (coming soon - Q4/2023)
 
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
 
