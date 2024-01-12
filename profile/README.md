@@ -25,8 +25,8 @@ Extensions/plugins/integrations add ink! language support to IDEs, code editors 
 They communicate with the language server running as a separate process using the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) via [JSON-RPC](https://www.jsonrpc.org/).
 
 Planned extensions/plugins/integrations:
-- [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode)
-- IntelliJ Plugin (coming soon - Q4/2023)
+- [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode) ([Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=ink-analyzer.ink-analyzer))
+- IntelliJ Plugin (TBD)
 
 **NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
 
