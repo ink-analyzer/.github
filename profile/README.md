@@ -28,6 +28,4 @@ Planned extensions/plugins/integrations:
 - [Visual Studio Code Extension](https://github.com/ink-analyzer/ink-vscode) ([Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=ink-analyzer.ink-analyzer))
 - IntelliJ Plugin (TBD)
 
-**NOTE:** 🚧 ink! Analyzer is still in early stages of development, check back over the next few weeks for regular updates.
-
 🌱 Funded by: the [Web3 Foundation](https://web3.foundation/).
