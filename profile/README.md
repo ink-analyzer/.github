@@ -10,7 +10,7 @@ ink! analyzer aims to improve [ink!](https://use.ink/) language support in [inte
 
 ### 1. 🔬 [Semantic Analyzer](https://github.com/ink-analyzer/ink-analyzer/tree/master/crates/analyzer)
 
-A modular domain-specific semantic analysis library for ink!.
+A modular domain-specific semantic analysis library for ink! built on a resilient and lossless parser.
 It's responsible for parsing the smart contract code, analyzing it based on ink!'s semantic rules for smart contracts and returning semantic information for other components to consume.
 
 ### 2. 🗣 [Language Server](https://github.com/ink-analyzer/ink-analyzer/tree/master/crates/lsp-server)
