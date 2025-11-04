@@ -86,7 +86,10 @@ Planned extensions/plugins/integrations:
 [extension-github]: https://github.com/ink-analyzer/ink-vscode
 [extension-marketplace]: https://marketplace.visualstudio.com/items?itemName=ink-analyzer.ink-analyzer
 
+🎨 Illustration by: [Dima Moiseenko][Dima]
+
 🌱 Funded by: the [Web3 Foundation][W3F] and [Polkadot Treasury][Treasury].
 
+[Dima]: https://illustratordima.com/
 [W3F]: https://web3.foundation/
 [Treasury]: https://polkadot.network/ecosystem/treasury/
