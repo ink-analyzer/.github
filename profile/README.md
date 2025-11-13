@@ -80,7 +80,7 @@ via [JSON-RPC].
 
 Planned extensions/plugins/integrations:
 - [Visual Studio Code Extension][extension-github] ([Install from Marketplace][extension-marketplace])
-- IntelliJ Plugin (TBD)
+- IntelliJ Plugin (Q1/2026)
 
 [JSON-RPC]: https://www.jsonrpc.org/
 [extension-github]: https://github.com/ink-analyzer/ink-vscode
